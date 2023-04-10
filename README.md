@@ -1,2 +1,2 @@
 # Ext4_repair
-This project implements the recovery of the Ext4 file system
+This project reflects my term paper on "Ext4 file system recovery system".
